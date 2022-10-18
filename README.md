@@ -1,6 +1,7 @@
 # 8bit-enhanced
-ZX6 (spec256) / PCW+ / GBm-->colorized / 
-VBm-->colorized / CPC+
+ZX6 (spec256 ulaX) / PCW+ / GBm-->colorized / 
+VBm-->colorized / CPC+ cpc classic colorized / 
+MSX2 remakes
 
 RockRiver's 8bit Systems
 
