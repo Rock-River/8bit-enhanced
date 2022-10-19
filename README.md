@@ -10,4 +10,4 @@ Initializing re-coloring project:
 * PCW+ (color & sound)(custom color palettes)
 * GBm on GEM(msx)(custom color palettes)
 * VBm on Mednafen (custom color palettes)(not 8bit cpu but retrocomputer spirit)
-* CPC+ (cpr cartridge rom files)
+* CPC+ (cpr cartridge rom files)(4096 colour palette)
