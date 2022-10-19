@@ -1,4 +1,4 @@
-# 8bit-enhanced
+# 8bit-enhanced Systems list
 ZX6 (spec256 ulaX) / PCW+ / GBm-->colorized / 
 VBm-->colorized / CPC+ cpc classic colorized / 
 MSX2 remakes
