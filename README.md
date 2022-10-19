@@ -9,5 +9,5 @@ Initializing re-coloring project:
 * ZX spec256 
 * PCW+ (color & sound)(custom color palettes)
 * GBm on GEM(msx)(custom color palettes)
-* VBm on Mednafen (custom color palettes)
+* VBm on Mednafen (custom color palettes)(not 8bit cpu but retrocomputer spirit)
 * CPC+ (cpr cartridge rom files)
